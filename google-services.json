@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "392215367203",
-    "firebase_url": "https://healthia-life.firebaseio.com",
-    "project_id": "healthia-life",
-    "storage_bucket": "healthia-life.appspot.com"
+    "project_number": "1034115151858",
+    "firebase_url": "https://harrods-app.firebaseio.com",
+    "project_id": "harrods-app",
+    "storage_bucket": "harrods-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:392215367203:android:578a23a9ed480ae4",
+        "mobilesdk_app_id": "1:1034115151858:android:d616714155c5775a",
         "android_client_info": {
-          "package_name": "com.stepex.schwartzer"
+          "package_name": "com.harrods.schwartzer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "392215367203-glithalradvecksgelsrcfp1br05bfc6.apps.googleusercontent.com",
+          "client_id": "1034115151858-nkc3r423kbg1t9t43gdngk2e78mi4uul.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCnfrYaxGeLSwHyinc9nQbpgTNt2wW9KGw"
+          "current_key": "AIzaSyCNv6Y6E6zMWL9Jwd0D1X5dzpFGAkTt92Y"
         }
       ],
       "services": {
@@ -29,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "392215367203-glithalradvecksgelsrcfp1br05bfc6.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
