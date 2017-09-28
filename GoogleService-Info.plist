@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>1034115151858-sekblju0drtqri22m4gmo6qene3oni69.apps.googleusercontent.com</string>
+	<string>757203166911-oqr78vdj6b84q7ptn1tc0q2erndvai0t.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1034115151858-sekblju0drtqri22m4gmo6qene3oni69</string>
+	<string>com.googleusercontent.apps.757203166911-oqr78vdj6b84q7ptn1tc0q2erndvai0t</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBHO9EIlr-q-JlanYp5QPFMdy2_Pfj8sSI</string>
+	<string>AIzaSyBQrbtS-Szkyt0i_Wx0Ton3SyGclbpm3mo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1034115151858</string>
+	<string>757203166911</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.harrods.schwartzer</string>
+	<string>com.step.exchange</string>
 	<key>PROJECT_ID</key>
-	<string>harrods-app</string>
+	<string>step-exchange</string>
 	<key>STORAGE_BUCKET</key>
-	<string>harrods-app.appspot.com</string>
+	<string>step-exchange.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1034115151858:ios:d616714155c5775a</string>
+	<string>1:757203166911:ios:ea1e41e281e53a98</string>
 	<key>DATABASE_URL</key>
-	<string>https://harrods-app.firebaseio.com</string>
+	<string>https://step-exchange.firebaseio.com</string>
 </dict>
 </plist>
