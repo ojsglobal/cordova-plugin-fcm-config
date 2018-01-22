@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "757203166911",
-    "firebase_url": "https://step-exchange.firebaseio.com",
-    "project_id": "step-exchange",
-    "storage_bucket": "step-exchange.appspot.com"
+    "project_number": "784633494716",
+    "firebase_url": "https://qrumbsco.firebaseio.com",
+    "project_id": "qrumbsco",
+    "storage_bucket": "qrumbsco.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:757203166911:android:ea1e41e281e53a98",
+        "mobilesdk_app_id": "1:784633494716:android:e0274df655630ac6",
         "android_client_info": {
-          "package_name": "com.step.exchange"
+          "package_name": "com.qrumbs.schwartzer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "757203166911-3g73otu75qnjq51jjo0kjb2kja3sla3p.apps.googleusercontent.com",
+          "client_id": "784633494716-tkj67ijjqibi2rmvu8q0uig1gd7k02gt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA2Dan5Rbv9uVUbQro8FEG77wihsZqNnW4"
+          "current_key": "AIzaSyCfamtCffFUrkZqoyiOFZxV3NwsT603BxM"
         }
       ],
       "services": {
@@ -29,20 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "757203166911-3g73otu75qnjq51jjo0kjb2kja3sla3p.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "757203166911-oqr78vdj6b84q7ptn1tc0q2erndvai0t.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.step.exchange"
-              }
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
