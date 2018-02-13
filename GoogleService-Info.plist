@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>784633494716-v4rf6lvvmmlht9t8ssdid9h1j93fpq8n.apps.googleusercontent.com</string>
+	<string>26844741312-hghtr2kinjt052s35pieusmst3rdpc22.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.784633494716-v4rf6lvvmmlht9t8ssdid9h1j93fpq8n</string>
+	<string>com.googleusercontent.apps.26844741312-hghtr2kinjt052s35pieusmst3rdpc22</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDYGd9qnuzqUZPEbsqoxycEW_eN8oZjqUY</string>
+	<string>AIzaSyAxAqk_lZrb1L2vbkfneurKfWIIHrMphZg</string>
 	<key>GCM_SENDER_ID</key>
-	<string>784633494716</string>
+	<string>26844741312</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.qrumbs.schwartzer</string>
+	<string>uk.ptpush.schwartzer</string>
 	<key>PROJECT_ID</key>
-	<string>qrumbsco</string>
+	<string>ptpushuk</string>
 	<key>STORAGE_BUCKET</key>
-	<string>qrumbsco.appspot.com</string>
+	<string>ptpushuk.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:784633494716:ios:e0274df655630ac6</string>
+	<string>1:26844741312:ios:391677746086711a</string>
 	<key>DATABASE_URL</key>
-	<string>https://qrumbsco.firebaseio.com</string>
+	<string>https://ptpushuk.firebaseio.com</string>
 </dict>
 </plist>
