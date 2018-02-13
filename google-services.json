@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "784633494716",
-    "firebase_url": "https://qrumbsco.firebaseio.com",
-    "project_id": "qrumbsco",
-    "storage_bucket": "qrumbsco.appspot.com"
+    "project_number": "26844741312",
+    "firebase_url": "https://ptpushuk.firebaseio.com",
+    "project_id": "ptpushuk",
+    "storage_bucket": "ptpushuk.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784633494716:android:e0274df655630ac6",
+        "mobilesdk_app_id": "1:26844741312:android:391677746086711a",
         "android_client_info": {
-          "package_name": "com.qrumbs.schwartzer"
+          "package_name": "uk.ptpush.schwartzer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784633494716-tkj67ijjqibi2rmvu8q0uig1gd7k02gt.apps.googleusercontent.com",
+          "client_id": "26844741312-s2updikq3ikvd8p2tdoqlgskeekuv2qj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCfamtCffFUrkZqoyiOFZxV3NwsT603BxM"
+          "current_key": "AIzaSyAhNvnZdqX5iiz7pvhU2bprNEdaOfUt2jA"
         }
       ],
       "services": {
